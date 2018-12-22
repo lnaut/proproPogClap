@@ -8,9 +8,9 @@ Matriculation Number: 2551845
 TU-ID: uy96qesa
 
 
-(for goups only):
+(for groups only):
 Student 2 Information:
 
-Full Name:
+Full Name: GLIEDMAYER
 Matriculation Number:
 TU-ID:
