@@ -1,3 +1,4 @@
+package src;
 import java.util.Comparator;
 
 public class PointsComparator implements Comparator<AbstractTeam> {
