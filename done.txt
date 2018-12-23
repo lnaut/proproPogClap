@@ -1,11 +1,11 @@
 1
-a)
-b)
-c)
-d) 
+a) yes
+b) yes
+c) yes
+d) yes
 
 2
-a)
+a) yes
 b)
 c)
 d)
