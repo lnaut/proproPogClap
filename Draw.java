@@ -1088,8 +1088,6 @@ public final class Draw implements ActionListener, MouseListener, MouseMotionLis
     }
 
 
-
-
     /**
      * Test client.
      */
