@@ -11,6 +11,6 @@ TU-ID: uy96qesa
 (for groups only):
 Student 2 Information:
 
-Full Name: GLIEDMAYER
-Matriculation Number:
-TU-ID:
+Full Name: Lennart Widmayer
+Matriculation Number: 2798381
+TU-ID: lw96luju
